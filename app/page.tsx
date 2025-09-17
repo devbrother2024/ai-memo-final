@@ -32,7 +32,7 @@ export default async function HomePage() {
                     <div className="flex items-center justify-between">
                         <div>
                             <h1 className="text-3xl font-bold text-gray-900">
-                                AI 메모장
+                                개발동생 AI 메모장 🚀🚀🚀
                             </h1>
                             <p className="text-gray-600 mt-1">
                                 안녕하세요, {user.email}님! 👋
